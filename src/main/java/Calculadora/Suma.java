@@ -4,13 +4,9 @@ import java.util.Scanner;
 
 
 /**
- * Clase para implementar las Sumas en la calculadora
- *
  * @author Jorge Pacheco Pavon
- *
- * @github TuPerfilDeGitHub
- * @version 0,01
- *
+ * @github Jorgekoke21
+ * @version 1.0
  */
 
 
@@ -114,7 +110,7 @@ public class Suma {
 
 
     /**
-     *  el menú de opciones para la clase Suma.
+     * @description el menú de opciones para la clase Suma.
      */
 
 
