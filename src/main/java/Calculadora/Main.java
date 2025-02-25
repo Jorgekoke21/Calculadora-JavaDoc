@@ -1,9 +1,13 @@
-package org.example;
-
-
-import Calculadora.Suma;
+package Calculadora;
 
 import java.util.Scanner;
+
+/**
+
+ * @author Jorge Pacheco Pavon
+ * @github Jorgekoke21
+ * @version 1.0
+ */
 
 public class Main {
     public static void main(String[] args) {
